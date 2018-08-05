@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
+## Lovely Begum Neteller Affiliate Link
 
-You can use the [editor on GitHub](https://github.com/lovelybe6782/lovelybe6782.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can register with the link below [Register NETELLER](http://wlnetelleragents.adsrv.eacdn.com/C.ashx?btag=a_39811b_500c_&affid=15036&siteid=39811&adid=500&c=) Thanks.
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+[Register NETELLER](http://wlnetelleragents.adsrv.eacdn.com/C.ashx?btag=a_39811b_500c_&affid=15036&siteid=39811&adid=500&c=){: .btn}
